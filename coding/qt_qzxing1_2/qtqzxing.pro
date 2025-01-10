@@ -31,7 +31,6 @@ FORMS += \
 
 
 INCLUDEPATH += D:\opencv\opencv\opencvs\install\include
-
 LIBS += D:\opencv\opencv\opencvs\lib\libopencv_*.a
 
 LIBS += -L$$PWD/QZXlib         -lQZXing3   #添加库
